@@ -189,9 +189,86 @@ Personally Preferred Swift Libraries
     </tr>
     <tr>
       <td>Swift</td>
-      <td><img src="https://github.com/eggswift/ESTabBarController/raw/master/Resources/CustomStyle.png" width="300px"></td>
+      <td>
+        <img src="https://github.com/eggswift/ESTabBarController/raw/master/Resources/CustomStyle2.png" width="300px">
+        <img src="https://github.com/eggswift/ESTabBarController/raw/master/Resources/CustomStyle.png" width="300px">
+        <img src="https://github.com/eggswift/ESTabBarController/raw/master/Resources/CustomSelectAnimateGif.gif" width="300px">
+      </td>
       <td><a href="https://github.com/eggswift/ESTabBarController">ESTabBarController</a></td>
       <td>ESTabBarController is a highly customizable TabBarController component, which is inherited from UITabBarController.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td></td>
+      <td><a href="https://github.com/sunshinejr/SwiftyUserDefaults">SwiftyUserDefaults</a></td>
+      <td>SwiftyUserDefaults makes user defaults enjoyable to use by combining expressive Swifty API with the benefits of static typing.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://camo.githubusercontent.com/f952348d31eaf1cab482bfe910a4794f60735ca6114c9b1a00be0775b3a1bbd8/687474703a2f2f692e696d6775722e636f6d2f76384a7552596a2e676966" width="300px"></td>
+      <td><a href="https://github.com/KelvinJin/AnimatedCollectionViewLayout">AnimatedCollectionViewLayout</a></td>
+      <td>A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://github.com/SCENEE/FloatingPanel/raw/master/assets/maps.gif" width="300px"></td>
+      <td><a href="https://github.com/SCENEE/FloatingPanel">FloatingPanel</a></td>
+      <td>
+FloatingPanel is a simple and easy-to-use UI component for a new interface introduced in Apple Maps, Shortcuts and Stocks app. The new interface displays the related contents and utilities in parallel as a user wants.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://camo.githubusercontent.com/521f15a662e9e7cedaeca082b57c6590bb796d44/68747470733a2f2f63646e2e7261776769742e636f6d2f536f7953617563654c61622f436f6c6c656374696f6e4b69742f343034353137302f5265736f75726365732f6578616d706c6531312e737667" width="300px"></td>
+      <td><a href="https://github.com/SoySauceLab/CollectionKit">CollectionKit</a></td>
+      <td>A modern Swift framework for building composable data-driven collection view.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://github.com/Daltron/NotificationBanner/raw/master/NotificationBanner/Assets/basic.gif" width="300px"></td>
+      <td><a href="https://github.com/Daltron/NotificationBanner">NotificationBanner</a></td>
+      <td>NotificationBanner is an extremely customizable and lightweight library that makes the task of displaying in app notification banners and drop down alerts an absolute breeze in iOS.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://raw.githubusercontent.com/PaoloCuscela/Cards/master/Images/DetailView.gif" width="300px"></td>
+      <td><a href="https://github.com/PaoloCuscela/Cards">Cards</a></td>
+      <td>NotificationBanner is an extremely customizable and lightweight library that makes the task of displaying in app notification banners and drop down alerts an absolute breeze in iOS.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://cloud.githubusercontent.com/assets/889949/20864386/a1307950-b9ef-11e6-8a58-e9c5103738e7.png" width="300px"></td>
+      <td><a href="https://github.com/marmelroy/PhoneNumberKit">PhoneNumberKit</a></td>
+      <td>A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://github.com/roberthein/BouncyLayout/raw/master/art/gifs/03.gif" width="300px"></td>
+      <td><a href="https://github.com/roberthein/BouncyLayout">BouncyLayout</a></td>
+      <td>A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://raw.githubusercontent.com/EFPrefix/EFQRCode/assets/QRCodeGIF2.gif" width="300px"></td>
+      <td><a href="https://github.com/EFPrefix/EFQRCode">EFQRCode</a></td>
+      <td>A better way to operate QR Code in Swift, support iOS, macOS, watchOS and tvOS.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://github.com/Skyscanner/SkyFloatingLabelTextField/raw/master/SkyFloatingLabelTextField/images/showcase-example.gif" width="300px"></td>
+      <td><a href="https://github.com/Skyscanner/SkyFloatingLabelTextField">SkyFloatingLabelTextField</a></td>
+      <td>A beautiful and flexible text field control implementation of "Float Label Pattern". Written in Swift.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://github.com/ArtSabintsev/Siren/raw/master/Assets/picSkippedUpdate.png?raw=true" width="300px"></td>
+      <td><a href="https://github.com/ArtSabintsev/Siren">Siren</a></td>
+      <td>Notify users when a new version of your app is available and prompt them to upgrade.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://github.com/hyperoslo/Whisper/raw/master/Resources/permanent-whisper.png" width="300px"></td>
+      <td><a href="https://github.com/hyperoslo/Whisper">Whisper</a></td>
+      <td>Whisper is a component that will make the task of displaying messages and in-app notifications simple. It has three different views inside.</td>
     </tr>
     
   </tbody>
