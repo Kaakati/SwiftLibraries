@@ -61,6 +61,54 @@ Personally Preferred Swift Libraries
       <td><a href="https://github.com/xmartlabs/Eureka">Eureka</a></td>
       <td>Elegant iOS form builder in Swift.</td>
     </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://github.com/malcommac/SwiftDate/raw/master/Documentation/SwiftDateArt.png" width="300px"></td>
+      <td><a href="https://github.com/malcommac/SwiftDate">SwiftDate</a></td>
+      <td>Parse, validate, manipulate, and display dates, time and timezones in Swift</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://github.com/xmartlabs/XLPagerTabStrip/raw/master/Example/youtube.gif" width="300px"></td>
+      <td><a href="https://github.com/xmartlabs/XLPagerTabStrip">XLPagerTabStrip</a></td>
+      <td>XLPagerTabStrip is a Container View Controller that allows us to switch easily among a collection of view controllers.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://github.com/marcosgriselli/ViewAnimator/raw/master/Resources/banner_new.svg" width="300px"></td>
+      <td><a href="https://github.com/marcosgriselli/ViewAnimator">ViewAnimator</a></td>
+      <td>ViewAnimator is a library for building complex iOS UIView animations in an easy way. It provides one line animations for any view included the ones which contain other views like UITableView and UICollectionView with its cells or UIStackView with its arrangedSubviews.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://github.com/andreamazz/AMScrollingNavbar/raw/master/assets/screenshot.gif" width="300px"></td>
+      <td><a href="https://github.com/andreamazz/AMScrollingNavbar">AMScrollingNavbar</a></td>
+      <td>A custom UINavigationController that enables the scrolling of the navigation bar alongside the scrolling of an observed content view</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://github.com/SwiftKickMobile/SwiftMessages/raw/master/Design/swiftmessages.png" width="300px"></td>
+      <td><a href="https://github.com/SwiftKickMobile/SwiftMessages">SwiftMessages</a></td>
+      <td>SwiftMessages is a very flexible view and view controller presentation library for iOS.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://cloud.githubusercontent.com/assets/5186464/24086370/45e7e8dc-0d49-11e7-86aa-139354fe00c5.jpg" width="300px"></td>
+      <td><a href="https://github.com/WenchaoD/FSPagerView">FSPagerView</a></td>
+      <td>FSPagerView is an elegant Screen Slide Library implemented primarily with UICollectionView.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://raw.githubusercontent.com/exyte/Macaw/master/logo.png" width="300px"></td>
+      <td><a href="https://github.com/exyte/Macaw">Macaw</a></td>
+      <td>Macaw is a powerful and easy-to-use vector graphics library written in Swift.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://raw.githubusercontent.com/jerkoch/SwipeCellKit/develop/Screenshots/Hero.gif" width="300px"></td>
+      <td><a href="https://github.com/SwipeCellKit/SwipeCellKit">SwipeCellKit</a></td>
+      <td>Swipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift.</td>
+    </tr>
     
   </tbody>
 </table>
