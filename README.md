@@ -75,6 +75,12 @@ Personally Preferred Swift Libraries
     </tr>
     <tr>
       <td>Swift</td>
+      <td><img src="https://raw.githubusercontent.com/uacaps/ResourceRepo/master/PageMenu/PageMenuDemo.gif" width="300px"></td>
+      <td><a href="https://github.com/PageMenu/PageMenu">PageMenu</a></td>
+      <td>A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram).</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
       <td><img src="https://github.com/marcosgriselli/ViewAnimator/raw/master/Resources/banner_new.svg" width="300px"></td>
       <td><a href="https://github.com/marcosgriselli/ViewAnimator">ViewAnimator</a></td>
       <td>ViewAnimator is a one line animations for any view included the ones which contain other views like UITableView and UICollectionView with its cells or UIStackView with its arrangedSubviews.</td>
@@ -126,6 +132,24 @@ Personally Preferred Swift Libraries
       <td><img src="https://github.com/philackm/ScrollableGraphView/raw/master/readme_images/init_anim_high_fps.gif" width="300px"></td>
       <td><a href="https://github.com/philackm/ScrollableGraphView">ScrollableGraphView</a></td>
       <td>An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://github.com/huri000/assets/raw/master/swift-entrykit/toasts.gif" width="300px"></td>
+      <td><a href="https://github.com/huri000/SwiftEntryKit">SwiftEntryKit</a></td>
+      <td>SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://raw.githubusercontent.com/vikmeup/SCPopUpView/master/editScreenshot.png" width="300px"></td>
+      <td><a href="https://github.com/vikmeup/SCLAlertView-Swift">SCLAlertView-Swift</a></td>
+      <td>Beautiful animated Alert View. Written in Swift.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://github.com/dillidon/alerts-and-pickers/raw/new/Assets/gifs/actionSheet-.gif" width="300px"></td>
+      <td><a href="https://github.com/dillidon/alerts-and-pickers">Alerts & Pickers</a></td>
+      <td>Advanced usage of UIAlertController and pickers based on it: Telegram, Contacts, Location, PhotoLibrary, Country, Phone Code, Currency, Date...</td>
     </tr>
     
   </tbody>
