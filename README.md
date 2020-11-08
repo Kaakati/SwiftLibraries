@@ -57,6 +57,12 @@ Personally Preferred Swift Libraries
     </tr>
     <tr>
       <td>Swift</td>
+      <td></td>
+      <td><a href="https://github.com/pNre/ExSwift">ExSwift</a></td>
+      <td>A set of Swift extensions for standard types and classes.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
       <td><img src="https://github.com/xmartlabs/Eureka/raw/master/Example/Media/EurekaRows.gif" width="300px"></td>
       <td><a href="https://github.com/xmartlabs/Eureka">Eureka</a></td>
       <td>Elegant iOS form builder in Swift.</td>
@@ -269,6 +275,30 @@ FloatingPanel is a simple and easy-to-use UI component for a new interface intro
       <td><img src="https://github.com/hyperoslo/Whisper/raw/master/Resources/permanent-whisper.png" width="300px"></td>
       <td><a href="https://github.com/hyperoslo/Whisper">Whisper</a></td>
       <td>Whisper is a component that will make the task of displaying messages and in-app notifications simple. It has three different views inside.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://github.com/optonaut/ActiveLabel.swift/raw/master/ActiveLabelDemo/demo.gif" width="300px"></td>
+      <td><a href="https://github.com/optonaut/ActiveLabel.swift">ActiveLabel</a></td>
+      <td>UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://github.com/Orderella/PopupDialog/raw/master/Assets/PopupDialogDark01.png?raw=true" width="300px"></td>
+      <td><a href="https://github.com/Orderella/PopupDialog">PopupDialog</a></td>
+      <td>Popup Dialog is a simple, customizable popup dialog written in Swift.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://cloud.githubusercontent.com/assets/1275218/10124182/09f4c406-654f-11e5-9cab-0f2e6f470887.gif" width="300px"></td>
+      <td><a href="https://github.com/pkluz/PKHUD">PKHUD</a></td>
+      <td>A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…)</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://raw.githubusercontent.com/okmr-d/okmr-d.github.io/master/img/DOFavoriteButton/demo.gif" width="300px"></td>
+      <td><a href="https://github.com/okmr-d/DOFavoriteButton">DOFavoriteButton</a></td>
+      <td>Cute Animated Button written in Swift.</td>
     </tr>
     
   </tbody>
