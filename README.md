@@ -505,6 +505,56 @@ Personally Preferred Swift Libraries
     <td><a href="https://github.com/mustafaibrahim989/MIBadgeButton-Swift">MIBadgeButton</a></td>
     <td>MIBadgeButton is badge button written in Swift with high UITableView/UICollectionView performance.</td>
   </tr>
+  <tr>
+    <td><img src="https://github.com/Minitour/EasyNotificationBadge/raw/master/Screenshots/heading.gif" width="300px"></td>
+    <td><a href="https://github.com/Minitour/EasyNotificationBadge">EasyNotificationBadge</a></td>
+    <td>UIView extension that adds a notification badge.</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/zenangst/Family/raw/master/Images/Family-header.png?raw=true" width="300px"></td>
+    <td><a href="https://github.com/zenangst/Family">Family</a></td>
+    <td>Family is a child view controller framework that makes setting up your parent controllers as easy as pie.</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/soulverteam/SoulverCore/raw/master/SoulverCoreIcon.png" width="300px"></td>
+    <td><a href="https://github.com/soulverteam/SoulverCore">SoulverCore</a></td>
+    <td>A powerful Swift framework for evaluating mathematical expressions</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/malcommac/ScrollingStackContainer/develop/logo.png" width="300px"></td>
+    <td><a href="https://github.com/malcommac/ScrollingStackContainer">ScrollingStackContainer</a></td>
+    <td>ScrollingStackContainer is an efficient scrolling UIStackView replacement, more suitable in situations when you are building a scrolling container with an heterogeneous number of items. It allows you to stack vertically UIViewController instances where the view is a simple fixed-height UIView or a UICollectionView or UITableView.</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/malcommac/SwiftMsgPack/develop/logo.png" width="300px"></td>
+    <td><a href="https://github.com/malcommac/SwiftMsgPack">SwiftMsgPack</a></td>
+    <td>MessagePack is an efficient binary serialization format, which lets you exchange data among multiple languages like JSON, except that it's faster and smaller.</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/ruslanskorb/RSKPlaceholderTextView/raw/master/RSKPlaceholderTextViewExample/RSKPlaceholderTextViewExample.gif" width="300px"></td>
+    <td><a href="https://github.com/ruslanskorb/RSKPlaceholderTextView">RSKPlaceholderTextView</a></td>
+    <td>A light-weight UITextView subclass that adds support for placeholder.</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/yassram/YRPayment/raw/master/preview/preview1.gif" width="300px"></td>
+    <td><a href="https://github.com/yassram/YRPayment">YRPayment</a></td>
+    <td>Better payment user experience library with cool animation in Swift.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://github.com/maxkramer/SwiftLuhn">SwiftLuhn</a></td>
+    <td>Debit/Credit card validation port of the Luhn Algorithm in Swift.</td>
+  </tr>
+  <tr>
+    <td><img src="https://camo.githubusercontent.com/d3192e917ced305d509379265c1294ab5f53164c0402b46e108eec1580c31b7c/687474703a2f2f692e696d6775722e636f6d2f555535586d37582e676966" width="300px"></td>
+    <td><a href="https://github.com/Fawxy/CBPinEntryView">CBPinEntryView</a></td>
+    <td>A customisable view for entering arbitrary length pins, codes or passwords in iOS. Supports iOS 12 one time codes.</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/arturdev/SwiftyCodeView/master/demo.gif" width="300px"></td>
+    <td><a href="https://github.com/arturdev/SwiftyCodeView">SwiftyCodeView</a></td>
+    <td>SwiftyCodeView is an elegant and customizable UI component which can be used as input field for verification codes, password, etc...</td>
+  </tr>
     
   </tbody>
 </table>
