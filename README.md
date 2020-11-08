@@ -28,6 +28,11 @@ Personally Preferred Swift Libraries
     <td>RxSwift: ReactiveX for Swift</td>
   </tr>
   <tr>
+    <td><img src="https://raw.githubusercontent.com/vhesener/Closures/assets/assets/logo3.1.png" width="300px"></td>
+    <td><a href="https://github.com/vhesener/Closures">Closures</a></td>
+    <td>Closures is an iOS Framework that adds closure handlers to many of the popular UIKit and Foundation classes. </td>
+  </tr>
+  <tr>
     <td></td>
     <td><a href="https://github.com/devxoul/URLNavigator">URLNavigator</a></td>
     <td>Elegant URL Routing for Swift</td>
@@ -86,6 +91,16 @@ Personally Preferred Swift Libraries
     <td><img src="https://raw.githubusercontent.com/wiki/kitasuke/PagingMenuController/images/demo3.gif" width="300px"></td>
     <td><a href="https://github.com/kitasuke/PagingMenuController">PagingMenuController</a></td>
     <td>Paging view controller with customizable menu in Swift</td>
+  </tr>
+  <tr>
+    <td><img src="https://camo.githubusercontent.com/47d9a93eab674f07eedd1ec327cb90da0540c104971e827e901fd3cb92f10789/68747470733a2f2f72656368737465696e65722d70617263686d656e742e73332e65752d63656e7472616c2d312e616d617a6f6e6177732e636f6d2f70617263686d656e742d756e706c6173682e676966" width="300px"></td>
+    <td><a href="https://github.com/rechsteiner/Parchment">Parchment</a></td>
+    <td>Parchment lets you page between view controllers while showing any type of generic indicator that scrolls along with the content. </td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/uias/Tabman/raw/master/Docs/img/tm_header.png" width="300px"></td>
+    <td><a href="https://github.com/uias/Tabman">Tabman</a></td>
+    <td>A powerful paging view controller with interactive indicator bars. </td>
   </tr>
   <tr>
     <td><img src="https://github.com/marcosgriselli/ViewAnimator/raw/master/Resources/banner_new.svg" width="300px"></td>
@@ -178,6 +193,11 @@ Personally Preferred Swift Libraries
     <td>Fast and simple OCR library written in Swift.</td>
   </tr>
   <tr>
+    <td><img src="https://github.com/WeTransfer/WeScan/raw/master/Assets/WeScan-Banner.jpg" width="300px"></td>
+    <td><a href="https://github.com/WeTransfer/WeScan">WeScan</a></td>
+    <td>WeScan makes it easy to add scanning functionalities to your iOS app! It's modelled after UIImagePickerController, which makes it a breeze to use.</td>
+  </tr>
+  <tr>
     <td>
       <img src="https://github.com/eggswift/ESTabBarController/raw/master/Resources/CustomStyle2.png" width="300px">
       <img src="https://github.com/eggswift/ESTabBarController/raw/master/Resources/CustomStyle.png" width="300px">
@@ -206,6 +226,11 @@ Personally Preferred Swift Libraries
     <td><img src="https://github.com/slackhq/PanModal/raw/master/Screenshots/panModal.gif" width="300px"></td>
     <td><a href="https://github.com/slackhq/PanModal">PanModal</a></td>
     <td>PanModal is an elegant and highly customizable presentation API for constructing bottom sheet modals on iOS</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/ivanvorobei/SPStorkController/raw/master/Resources/Preview.gif" width="300px"></td>
+    <td><a href="https://github.com/ivanvorobei/SPStorkController">SPStorkController</a></td>
+    <td>Now playing controller from Apple Music, Mail & Podcasts Apple's apps.</td>
   </tr>
   <tr>
     <td><img src="https://camo.githubusercontent.com/521f15a662e9e7cedaeca082b57c6590bb796d44/68747470733a2f2f63646e2e7261776769742e636f6d2f536f7953617563654c61622f436f6c6c656374696f6e4b69742f343034353137302f5265736f75726365732f6578616d706c6531312e737667" width="300px"></td>
@@ -349,6 +374,61 @@ Personally Preferred Swift Libraries
     <td><img src="https://raw.githubusercontent.com/malcommac/SwiftRichString/master/SRRLogo.png" width="300px"></td>
     <td><a href="https://github.com/malcommac/SwiftRichString">SwiftRichString</a></td>
     <td>SwiftRichString is a lightweight library which allows to create and manipulate attributed strings easily both in iOS, macOS, tvOS and even watchOS.</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/gavinbunney/Toucan/master/assets/toucan.png" width="300px"></td>
+    <td><a href="https://github.com/gavinbunney/Toucan">Toucan</a></td>
+    <td>Toucan is a Swift library that provides a clean, quick API for processing images.</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/pmusolino/PMAlertController/master/preview_pmalertacontroller.png" width="300px"></td>
+    <td><a href="https://github.com/pmusolino/PMAlertController">PMAlertController</a></td>
+    <td>PMAlertController is a small library that allows you to substitute Apple's uncustomizable UIAlertController, with a beautiful and totally customizable alert that you can use in your iOS app.</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/nvzqz/FileKit/raw/assets/banner.png" width="300px"></td>
+    <td><a href="https://github.com/nvzqz/FileKit">FileKit</a></td>
+    <td>Simple and expressive file management in Swift</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://github.com/rhummelmose/BluetoothKit">BluetoothKit</a></td>
+    <td>Easily communicate between iOS devices using BLE.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="https://github.com/rhummelmose/BluetoothKit">BluetoothKit</a></td>
+    <td>Easily communicate between iOS devices using BLE.</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/HamzaGhazouani/HGPlaceholders/raw/master/Screenshots/default.gif" width="300px"></td>
+    <td><a href="https://github.com/HamzaGhazouani/HGPlaceholders">HGPlaceholders</a></td>
+    <td>Nice library to show placeholders and Empty States for any UITableView/UICollectionView in your project</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/entotsu/PullToBounce/master/demo.gif" width="300px"></td>
+    <td><a href="https://github.com/takuoka/PullToBounce">PullToBounce</a></td>
+    <td>Animated "Pull To Refresh" Library for UIScrollView.</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/luoxiu/Schedule/raw/master/assets/demo.png" width="300px"></td>
+    <td><a href="https://github.com/luoxiu/Schedule">Schedule</a></td>
+    <td>Schedule is a timing tasks scheduler written in Swift. It allows you run timing tasks with elegant and intuitive syntax.</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/hyperoslo/BarcodeScanner/raw/master/Art/BarcodeScannerPresentation.png" width="300px"></td>
+    <td><a href="https://github.com/hyperoslo/BarcodeScanner">BarcodeScanner</a></td>
+    <td>A simple and beautiful barcode scanner.</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/MaximKotliar/Bartinter/master/demo.gif" width="300px"></td>
+    <td><a href="https://github.com/MaximKotliar/Bartinter">Bartinter</a></td>
+    <td>Status bar apperance manager that make your status bar readable by dynamically changing it's color depending on content behind.</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/hyperoslo/Lightbox/raw/master/Images/demo.png" width="300px"></td>
+    <td><a href="https://github.com/hyperoslo/Lightbox">Lightbox</a></td>
+    <td>A convenient and easy to use image viewer for your iOS app.</td>
   </tr>
     
   </tbody>
