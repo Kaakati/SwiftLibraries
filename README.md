@@ -7,7 +7,7 @@ Personally Preferred Swift Libraries
   <thead>
     <tr>
       <th>Category</th>
-      <th>Photo</th>
+      <th width="250px">Photo</th>
       <th>Name</th>
       <th>Description</th>
     </tr>
@@ -77,7 +77,7 @@ Personally Preferred Swift Libraries
       <td>Swift</td>
       <td><img src="https://github.com/marcosgriselli/ViewAnimator/raw/master/Resources/banner_new.svg" width="300px"></td>
       <td><a href="https://github.com/marcosgriselli/ViewAnimator">ViewAnimator</a></td>
-      <td>ViewAnimator is a library for building complex iOS UIView animations in an easy way. It provides one line animations for any view included the ones which contain other views like UITableView and UICollectionView with its cells or UIStackView with its arrangedSubviews.</td>
+      <td>ViewAnimator is a one line animations for any view included the ones which contain other views like UITableView and UICollectionView with its cells or UIStackView with its arrangedSubviews.</td>
     </tr>
     <tr>
       <td>Swift</td>
@@ -108,6 +108,24 @@ Personally Preferred Swift Libraries
       <td><img src="https://raw.githubusercontent.com/jerkoch/SwipeCellKit/develop/Screenshots/Hero.gif" width="300px"></td>
       <td><a href="https://github.com/SwipeCellKit/SwipeCellKit">SwipeCellKit</a></td>
       <td>Swipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://github.com/Ramotion/expanding-collection/raw/master/expanding-collection.gif" width="300px"></td>
+      <td><a href="https://github.com/Ramotion/expanding-collection">ExpandingCollection</a></td>
+      <td>ExpandingCollection is an animated material design UI card peek/pop controller.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://github.com/bizz84/SwiftyStoreKit/raw/master/SwiftyStoreKit-logo.png" width="300px"></td>
+      <td><a href="https://github.com/bizz84/SwiftyStoreKit">SwiftyStoreKit</a></td>
+      <td>Lightweight In App Purchases Swift framework for iOS 8.0+, tvOS 9.0+ and macOS 10.10+ </td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://github.com/philackm/ScrollableGraphView/raw/master/readme_images/init_anim_high_fps.gif" width="300px"></td>
+      <td><a href="https://github.com/philackm/ScrollableGraphView">ScrollableGraphView</a></td>
+      <td>An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift.</td>
     </tr>
     
   </tbody>
