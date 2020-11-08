@@ -28,6 +28,11 @@ Personally Preferred Swift Libraries
     <td>RxSwift: ReactiveX for Swift</td>
   </tr>
   <tr>
+    <td></td>
+    <td><a href="https://github.com/devxoul/URLNavigator">URLNavigator</a></td>
+    <td>Elegant URL Routing for Swift</td>
+  </tr>
+  <tr>
     <td><img src="https://raw.githubusercontent.com/onevcat/Kingfisher/master/images/logo.png" width="200px"></td>
     <td><a href="https://github.com/onevcat/Kingfisher">Kingfisher</a></td>
     <td>Kingfisher is a powerful, pure-Swift library for downloading and caching images from the web.</td>
@@ -76,6 +81,11 @@ Personally Preferred Swift Libraries
     <td><img src="https://raw.githubusercontent.com/uacaps/ResourceRepo/master/PageMenu/PageMenuDemo.gif" width="300px"></td>
     <td><a href="https://github.com/PageMenu/PageMenu">PageMenu</a></td>
     <td>A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram).</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/wiki/kitasuke/PagingMenuController/images/demo3.gif" width="300px"></td>
+    <td><a href="https://github.com/kitasuke/PagingMenuController">PagingMenuController</a></td>
+    <td>Paging view controller with customizable menu in Swift</td>
   </tr>
   <tr>
     <td><img src="https://github.com/marcosgriselli/ViewAnimator/raw/master/Resources/banner_new.svg" width="300px"></td>
@@ -213,7 +223,6 @@ Personally Preferred Swift Libraries
     <td>NotificationBanner is an extremely customizable and lightweight library that makes the task of displaying in app notification banners and drop down alerts an absolute breeze in iOS.</td>
   </tr>
   <tr>
-
     <td><img src="https://cloud.githubusercontent.com/assets/889949/20864386/a1307950-b9ef-11e6-8a58-e9c5103738e7.png" width="300px"></td>
     <td><a href="https://github.com/marmelroy/PhoneNumberKit">PhoneNumberKit</a></td>
     <td>A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.</td>
@@ -316,6 +325,31 @@ Personally Preferred Swift Libraries
       - 🕘 Correct: Using Foundation API correctly, Timepiece helps to calculate dates correctly without deep understanding.
       - 📦 Small: Timepiece has only 4 file. You can read the inside of this easi</td>
   </tr>
-
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/ra1028/DifferenceKit/master/assets/logo.png" width="300px"></td>
+    <td><a href="https://github.com/ra1028/DifferenceKit">DifferenceKit</a></td>
+    <td>A fast and flexible O(n) difference algorithm framework for Swift collection. The algorithm is optimized based on the Paul Heckel's algorithm.</td>
+  </tr>
+  <tr>
+    <td><img src="https://cloud.githubusercontent.com/assets/3029684/13373932/84daee2a-ddb8-11e5-99db-fdf415620102.png" width="300px"></td>
+    <td><a href="https://github.com/JohnEstropia/CoreStore">CoreStore</a></td>
+    <td>Unleashing the real power of Core Data with the elegance and safety of Swift.</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/ChiliLabs/CHIPageControl/raw/master/Images/demo.gif" width="300px"></td>
+    <td><a href="https://github.com/ChiliLabs/CHIPageControl">CHIPageControl</a></td>
+    <td>CHIPageControl is a set of cool animated page controls to replace boring UIPageControl.</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/3lvis/Sync/master/Images/logo-v3.png" width="300px"></td>
+    <td><a href="https://github.com/3lvis/Sync">Sync</a></td>
+    <td>Sync eases your everyday job of parsing a JSON response and syncing it with Core Data.</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/malcommac/SwiftRichString/master/SRRLogo.png" width="300px"></td>
+    <td><a href="https://github.com/malcommac/SwiftRichString">SwiftRichString</a></td>
+    <td>SwiftRichString is a lightweight library which allows to create and manipulate attributed strings easily both in iOS, macOS, tvOS and even watchOS.</td>
+  </tr>
+    
   </tbody>
 </table>
