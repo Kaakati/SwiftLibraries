@@ -68,6 +68,11 @@ Personally Preferred Swift Libraries
     <td>A set of Swift extensions for standard types and classes.</td>
   </tr>
   <tr>
+    <td><img src="https://github.com/Draveness/RbSwift/raw/master/RbSwift.jpg" width="300px"/></td>
+    <td><a href="https://github.com/draveness/RbSwift">RbSwift</a></td>
+    <td>Ruby Syntax, Extensions for Swift with hundreds of handy methods.</td>
+  </tr>
+  <tr>
     <td><img src="https://github.com/xmartlabs/Eureka/raw/master/Example/Media/EurekaRows.gif" width="300px"></td>
     <td><a href="https://github.com/xmartlabs/Eureka">Eureka</a></td>
     <td>Elegant iOS form builder in Swift.</td>
@@ -429,6 +434,76 @@ Personally Preferred Swift Libraries
     <td><img src="https://github.com/hyperoslo/Lightbox/raw/master/Images/demo.png" width="300px"></td>
     <td><a href="https://github.com/hyperoslo/Lightbox">Lightbox</a></td>
     <td>A convenient and easy to use image viewer for your iOS app.</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/ra1028/Former/master/Logo.png" width="300px"></td>
+    <td><a href="https://github.com/ra1028/Former">Former</a></td>
+    <td>Former is a fully customizable Swift library for easy creating UITableView based form.</td>
+  </tr>
+  <tr>
+    <td><img src="https://cloud.githubusercontent.com/assets/798235/19688388/c61a6ab8-9ac9-11e6-9757-e087c268f3a6.png" width="300px"></td>
+    <td><a href="https://github.com/yannickl/QRCodeReader.swift">QRCodeReader</a></td>
+    <td>QRCodeReader.swift is a simple code reader (initially only QRCode) for iOS in Swift.</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/kf99916/TimelineTableViewCell/raw/master/screenshots/timelineTableView.png" width="300px"></td>
+    <td><a href="https://github.com/kf99916/TimelineTableViewCell">TimelineTableViewCell</a></td>
+    <td>Simple timeline view implemented by UITableViewCell</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/delba/Tactile/raw/assets/master%402x.png" width="300px"></td>
+    <td><a href="https://github.com/delba/Tactile">Tactile</a></td>
+    <td>A better way to handle gestures on iOS</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/soffes/GradientView/raw/master/Example/Screenshots/Screenshot1@2x.png" width="300px"></td>
+    <td><a href="https://github.com/soffes/GradientView">GradientView</a></td>
+    <td>Easily use gradients in UIKit. Gradient View is a simple UIView wrapper around CGGradient.</td>
+  </tr>
+  <tr>
+    <td><img src="https://camo.githubusercontent.com/069572764ca7c4b16170858a6afb9f28e16778b41ba98cac7b4b38e3afcc0081/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3538464e75614462507979633849645274422f67697068792e676966" width="300px"></td>
+    <td><a href="https://github.com/ergunemr/BottomPopup">BottomPopup</a></td>
+    <td>BottomPopup provides a popup-like presentation style to any view controller.</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/uptechteam/AirBar/raw/master/Logo/Demo.gif" width="300px"></td>
+    <td><a href="https://github.com/uptechteam/AirBar">AirBar</a></td>
+    <td>AirBar is a library for creating cool expandable menus.</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Cuberto/flashy-tabbar/master/Screenshots/animation.gif" width="300px"></td>
+    <td><a href="https://github.com/Cuberto/flashy-tabbar">CBFlashyTabBarController</a></td>
+    <td>One another nice animated tabbar</td>
+  </tr>
+  <tr>
+    <td><img src="https://camo.githubusercontent.com/88938e803d4a75413002c77f6b02178817a6ac33/68747470733a2f2f692e696d6775722e636f6d2f32333874696b662e676966" width="300px"></td>
+    <td><a href="https://github.com/jogendra/BadgeHub">BadgeHub</a></td>
+    <td>A way to quickly add a notification badge icon to any view. Make any view of a full-fledged animated notification center.</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/thePsguy/ButtonProgressBar-iOS/master/output_F2Ryon.gif" width="300px"></td>
+    <td><a href="https://github.com/thePsguy/ButtonProgressBar-iOS">ButtonProgressBar</a></td>
+    <td>A small and flexible (well documented) UIButton subclass with animated loading progress, and completion animation.</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/7403338/53284076-884de700-3757-11e9-9185-33a67e7b3ba0.gif" width="300px"></td>
+    <td><a href="https://github.com/softhausHQ/CircleBar">CircleBar</a></td>
+    <td>A fun, easy-to-use tab bar navigation controller for iOS.</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/evermeer/PassportScanner/raw/master/ezgif.gif?raw=true" width="300px"></td>
+    <td><a href="https://github.com/evermeer/PassportScanner">PassportScanner</a></td>
+    <td>Scan the MRZ code of a passport and extract the firstname, lastname, passport number, nationality, date of birth, expiration date and personal numer.</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/muukii/StackScrollView/raw/master/Resources/sample.gif" width="300px"></td>
+    <td><a href="https://github.com/muukii/StackScrollView">StackScrollView</a></td>
+    <td>iOS Form UI Builder in Swift.</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/mustafaibrahim989/MIBadgeButton-Swift/raw/master/screenshot.png" width="300px"></td>
+    <td><a href="https://github.com/mustafaibrahim989/MIBadgeButton-Swift">MIBadgeButton</a></td>
+    <td>MIBadgeButton is badge button written in Swift with high UITableView/UICollectionView performance.</td>
   </tr>
     
   </tbody>
