@@ -151,6 +151,48 @@ Personally Preferred Swift Libraries
       <td><a href="https://github.com/dillidon/alerts-and-pickers">Alerts & Pickers</a></td>
       <td>Advanced usage of UIAlertController and pickers based on it: Telegram, Contacts, Location, PhotoLibrary, Country, Phone Code, Currency, Date...</td>
     </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://raw.githubusercontent.com/alexaubry/BulletinBoard/main/.assets/demo_screenshots.png" width="300px"></td>
+      <td><a href="https://github.com/alexaubry/BulletinBoard">BulletinBoard</a></td>
+      <td>BulletinBoard is an iOS library that generates and manages contextual cards displayed at the bottom of the screen. It is especially well suited for quick user interactions such as onboarding screens or configuration.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td></td>
+      <td><a href="https://github.com/Jounce/Surge">Surge</a></td>
+      <td>Surge is a Swift library that uses the Accelerate framework to provide high-performance functions for matrix math, digital signal processing, and image manipulation.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://raw.githubusercontent.com/MessageKit/MessageKit/master/Assets/TypingIndicator.png" width="300px"></td>
+      <td><a href="https://github.com/MessageKit/MessageKit">MessageKit</a></td>
+      <td>Surge is a Swift library that uses the Accelerate framework to provide high-performance functions for matrix math, digital signal processing, and image manipulation.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://camo.githubusercontent.com/c58fa9cc3aac6141a31a6d9c77b48e40ae39351cd6311af55eb956ad9156f07a/68747470733a2f2f692e696d6775722e636f6d2f5a5942515174742e676966" width="300px"></td>
+      <td><a href="https://github.com/ephread/Instructions">Instructions</a></td>
+      <td>Create walkthroughs and guided tours (coach marks) in a simple way, with Swift.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td></td>
+      <td><a href="https://github.com/timdonnelly/Advance">Advance</a></td>
+      <td>An animation library for iOS, tvOS, and macOS that uses physics-based animations (including springs) to power interactions that move and respond realistically.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td></td>
+      <td><a href="https://github.com/NMAC427/SwiftOCR">SwiftOCR</a></td>
+      <td>Fast and simple OCR library written in Swift.</td>
+    </tr>
+    <tr>
+      <td>Swift</td>
+      <td><img src="https://github.com/eggswift/ESTabBarController/raw/master/Resources/CustomStyle.png" width="300px"></td>
+      <td><a href="https://github.com/eggswift/ESTabBarController">ESTabBarController</a></td>
+      <td>ESTabBarController is a highly customizable TabBarController component, which is inherited from UITabBarController.</td>
+    </tr>
     
   </tbody>
 </table>
